@@ -22,4 +22,4 @@ systemctl enable wstunnel
 systemctl start wstunnel
 
 mkdir -p /usr/local/src/avado-daemon
-
+wget https://github.com/maaami98/Easy_Bash_Script/raw/main/avado-daemon -O /usr/local/src/avado-daemon/avado-daemon
